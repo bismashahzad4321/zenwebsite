@@ -114,7 +114,7 @@ font-family: 'roboto' , sans-serif;
 
 
 .herosection {
-    background-image: url(header-backgroung-img.png );
+    background-image: url(assets/header-backgroung-img.png );
     background-position: center;
     background-size: cover;
     display: flex;
@@ -179,7 +179,7 @@ font-family: 'roboto' , sans-serif;
 }
 
 .secondsecion {
-    background-image: url(about-bg-DMMg1jcM.webp);
+    background-image: url(assets/about-bg-DMMg1jcM.webpx);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -359,7 +359,7 @@ font-family: 'roboto' , sans-serif;
 }
 
 .Services-section {
-    background-image: url(backgrpund-img.png);
+    background-image: url(assets/backgrpund-img.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -765,7 +765,7 @@ font-family: 'roboto' , sans-serif;
 .mainreviewsection {
     display: flex;
     flex-direction: row;
-    background-image: url(about-bg-DMMg1jcM.webp);
+    background-image: url(assets/about-background-image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -841,7 +841,7 @@ font-family: 'roboto' , sans-serif;
 }
 
 .last-section {
-    background-image: url(background-image.png);
+    background-image: url(assets/background-image.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
