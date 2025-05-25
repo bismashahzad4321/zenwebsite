@@ -978,3 +978,7 @@ font-family: 'poppin' , sans-serif;
     font-size: 15px;
 }
 }
+.listsection p i{
+color: #731a94;
+padding-right: 10px;
+}
